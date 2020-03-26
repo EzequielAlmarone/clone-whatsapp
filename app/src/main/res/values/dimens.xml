@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largura_logo">200dp</dimen>
+    <dimen name="altura_logo">163dp</dimen>
+    <dimen name="margin_vertical">8dp</dimen>
+    <dimen name="margin_horizontal">16dp</dimen>
+    <dimen name="tamanho_text_titulo">26sp</dimen>
+    <dimen name="tamanho_texto_botao">18sp</dimen>
+</resources>
